@@ -94,12 +94,12 @@ color: #fff;
 }
 
 .blue{
-    background-color: #
+    background-color: #5ED3EB;
     margin: 0 24%;
 }
 
 .yellow{
-    background-color: #
+    background-color: #FFCD69;
     margin-right: 10%;
 }
 
@@ -129,5 +129,16 @@ color: #fff;
 
 .right div{
     position:absolute;
-    top: 40%;
+    top: 30%;
+    letter-spacing: 3px;
+}
+
+.right div h1, h2, h3 {
+    padding: 2%;
+}
+
+.right div h3 {
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
 }
