@@ -40,7 +40,7 @@ blockquote, q {
     padding: 0;
     margin: 0;
     max-width: 100%;
-    border: red solid 1px;
+    /* border: red solid 1px; */
 }
 
 /* General Styles */
@@ -161,7 +161,44 @@ color: #fff;
 
 .icon-section{
     text-align: center;
-    margin: 10%;
 }
 
+.fire-pit{
+    margin-bottom: 2%;
+}
 
+.fire-pit img{
+    width: 13%;
+}
+
+.fire-pit p{
+    width: 20%;
+    margin: 0 40%;
+}
+
+.camping{
+    margin: 3% 0;
+}
+
+.camping img{
+    width: 13%;
+}
+
+.camping p{
+    width: 20%;
+    margin: 0 40%;
+}
+
+.footer-pic{
+    margin-top: 0%;
+    background-image: url('assets/footer_img.jpg');
+    height:50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    width: 100%;
+}
+
+footer{
+    background-color: #d4c1b8dc;
+}
